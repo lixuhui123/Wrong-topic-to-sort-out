@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="5.3s.cpp" />
+    <ClCompile Include="day13.cpp" />
     <ClCompile Include="default.cpp" />
     <ClCompile Include="vector使用.cpp" />
     <ClCompile Include="与编译器相关的流氓题.cpp" />
