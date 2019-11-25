@@ -122,6 +122,7 @@
     <ClCompile Include="与编译器相关的流氓题.cpp" />
     <ClCompile Include="好玩的类.cpp" />
     <ClCompile Include="字符串输出的要点.cpp" />
+    <ClCompile Include="柔性数组.cpp" />
     <ClCompile Include="源.cpp" />
     <ClCompile Include="父类和子类.cpp" />
     <ClCompile Include="类.cpp" />
