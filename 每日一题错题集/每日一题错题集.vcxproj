@@ -76,6 +76,7 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
@@ -118,10 +119,13 @@
     <ClCompile Include="5.3s.cpp" />
     <ClCompile Include="day13.cpp" />
     <ClCompile Include="default.cpp" />
+    <ClCompile Include="strcpy.cpp" />
     <ClCompile Include="vector使用.cpp" />
     <ClCompile Include="与编译器相关的流氓题.cpp" />
     <ClCompile Include="好玩的类.cpp" />
     <ClCompile Include="字符串输出的要点.cpp" />
+    <ClCompile Include="强转指针类.cpp" />
+    <ClCompile Include="数组全排列.cpp" />
     <ClCompile Include="柔性数组.cpp" />
     <ClCompile Include="源.cpp" />
     <ClCompile Include="父类和子类.cpp" />

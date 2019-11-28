@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int main()
+int maing3get3vred()
 {
 	int i = 0, a = 1, b = 2, c = 3;
 	i = ++a || ++b || ++c;

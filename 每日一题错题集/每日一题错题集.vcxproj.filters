@@ -57,5 +57,14 @@
     <ClCompile Include="柔性数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="strcpy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组全排列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="强转指针类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
