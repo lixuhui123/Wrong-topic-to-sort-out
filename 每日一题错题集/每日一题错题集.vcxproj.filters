@@ -66,5 +66,11 @@
     <ClCompile Include="强转指针类.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="编译出错.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c51.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

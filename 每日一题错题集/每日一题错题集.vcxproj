@@ -117,6 +117,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="5.3s.cpp" />
+    <ClCompile Include="c51.cpp" />
     <ClCompile Include="day13.cpp" />
     <ClCompile Include="default.cpp" />
     <ClCompile Include="strcpy.cpp" />
@@ -131,6 +132,7 @@
     <ClCompile Include="父类和子类.cpp" />
     <ClCompile Include="类.cpp" />
     <ClCompile Include="结构体内存对齐.cpp" />
+    <ClCompile Include="编译出错.cpp" />
     <ClCompile Include="自己认为编译出错的题.cpp" />
     <ClCompile Include="递归.cpp" />
   </ItemGroup>
