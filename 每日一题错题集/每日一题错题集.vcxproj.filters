@@ -69,7 +69,7 @@
     <ClCompile Include="编译出错.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="c51.cpp">
+    <ClCompile Include="新的开始.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
