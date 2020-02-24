@@ -125,6 +125,7 @@
     <ClCompile Include="好玩的类.cpp" />
     <ClCompile Include="字符串输出的要点.cpp" />
     <ClCompile Include="强转指针类.cpp" />
+    <ClCompile Include="排序试题.cpp" />
     <ClCompile Include="数组全排列.cpp" />
     <ClCompile Include="新的开始.cpp" />
     <ClCompile Include="柔性数组.cpp" />
@@ -135,6 +136,7 @@
     <ClCompile Include="编译出错.cpp" />
     <ClCompile Include="自己认为编译出错的题.cpp" />
     <ClCompile Include="递归.cpp" />
+    <ClCompile Include="首次模拟笔试.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -72,5 +72,11 @@
     <ClCompile Include="新的开始.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="首次模拟笔试.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排序试题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
